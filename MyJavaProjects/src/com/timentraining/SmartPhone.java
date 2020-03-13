@@ -4,10 +4,7 @@ public class SmartPhone {
 	
 	public void callToANumber(int n) 
 	{
-		
 		System.out.println("Calling " + n);
-		
-		
 	}
 	public void sendTextMessage(int n, String s) {
 		
