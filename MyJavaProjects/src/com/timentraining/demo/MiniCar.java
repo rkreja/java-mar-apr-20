@@ -5,6 +5,12 @@ public class MiniCar {
 	private int milePerLitre = 10;
 	private int milage=0;
 	
+	 int i = 0;
+	 char c = 'c';
+	 long l = 656456465;
+	 double d = 6546464644.0254;
+	 
+
 	
 	public void drive(int mile) {
 		

@@ -9,7 +9,7 @@ public class SmartPhone {
 		return credit;
 	}
 	
-	public void callToANumber(int n) 
+	public void callToANumber(long n) 
 	{
 		
 		if(credit >0) {

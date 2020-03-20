@@ -6,15 +6,6 @@ public class SmartPhoneApp {
 		
 		SmartPhone smartPhone = new SmartPhone();
 		
-//		 smartPhone.callToANumber(65655);
-		 smartPhone.callToANumber(65655);
-		 smartPhone.callToANumber(65655);
-		 
-//		 smartPhone.callToANumber(65655);
-		 
-		 int currentCredit = smartPhone.showCredit();
-		 
-		 System.out.println(currentCredit);
 	}
 
 }
